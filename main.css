@@ -1,0 +1,107 @@
+p {
+	margin:0;
+}
+
+#c {
+
+}
+
+#space {
+	width:304px;
+	
+}
+
+#seven {
+	
+}
+
+#eight {
+	
+}
+
+#nine {
+
+	
+}
+
+#line {
+	color:#6A5ACD;
+	background-color: #87CEFA;
+}
+
+#four {
+	
+}
+
+#five {
+	
+}
+
+#six {
+	
+}
+
+#x {
+	color:#6A5ACD;
+	background-color: #87CEFA;
+}
+
+#one {
+	
+}
+
+#two {
+	
+}
+
+#three {
+	
+}
+
+#dash {
+	color:#6A5ACD;
+	background-color: #87CEFA;
+		font-size:30px;
+
+
+
+}
+
+#zero {
+	
+}
+
+#dot {
+	
+}
+
+#equal {
+	
+}
+
+#plus {
+	color:#6A5ACD;
+	background-color: #87CEFA;
+}
+
+#customers{
+	margin:0px;
+	width:408px;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	position:relative;
+}
+
+.button {
+	line-height: 100px;
+	font-family:'Verdana';
+	width:100px;
+	height:100px;
+	font-size:30px;
+	color:#FFF5EE;
+	text-align:center;
+	border:1px solid #DDA0DD;
+	background-color: #00BFFF;
+
+}
